@@ -69,4 +69,3 @@ visions==0.7.1
 wcwidth==0.2.5
 Werkzeug==2.0.1
 zipp==3.5.0
-pywin32==301
